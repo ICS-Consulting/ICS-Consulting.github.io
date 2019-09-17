@@ -1,2 +1,2 @@
-# ICS-Consulting.github.ol
+# ICS-Consulting.github.io
 Intellectum Consulting Solutions
